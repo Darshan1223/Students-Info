@@ -101,4 +101,4 @@ This project is licensed under the **MIT License**. For more details, see the [L
 
 ## 📧 Get in Touch
 
-Have questions or need support? Reach out at [samdarshan1223@gmail.com](samdarshan1223@gmail.com).
+Have questions or need support? Reach out at [samdarshan1223@gmail.com]([samdarshan1223@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnjjzVQVdTDFzbcZQGCKtXVKwnGKMSpzNHQQCVTtgSGpKmTqGRkJnWPXRXGZHGBMwrKdL)).
