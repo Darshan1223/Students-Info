@@ -1,0 +1,10 @@
+
+    Name: Vaishali S
+    email Id: vaishu2000@gmail.com
+    Department: CSE
+    Date of Birth: 2000-04-07 00:00:00
+    College Name: Perumal Manimegalai College
+    Mobile Number: 9367793355
+    CGPA: 8.58
+    Skills: Linux,AWS
+    

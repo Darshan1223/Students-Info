@@ -1,0 +1,10 @@
+
+    Name: Darshan S
+    email Id: samdarshan1223@gmail.com
+    Department: IT
+    Date of Birth: 2002-07-12
+    College Name: Sona College Of Technology
+    Mobile Number: 9578933399
+    CGPA: 9.09
+    Skills: Java,Python,SQL
+    
